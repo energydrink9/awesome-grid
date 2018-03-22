@@ -48,6 +48,7 @@ Good features realization.
 * [ui-grid](http://ui-grid.info/) - Professional complete grid solution.
 
 ### React
+* [functional-data-grid](https://github.com/energydrink9/functional-data-grid) - Rich data grids in functional style with React.
 * [Griddle](http://griddlegriddle.github.io/Griddle/) - Simple grid library.  
 * [react-bootstrap-table2](https://react-bootstrap-table.github.io/react-bootstrap-table2) - Light table for twitter bootstrap.  
 * [react-datagrid2](https://github.com/stevelacy/react-datagrid2) - It has basic grid features. It looks lite but it is powerful.  
